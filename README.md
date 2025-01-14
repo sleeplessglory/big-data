@@ -6,7 +6,7 @@ Now I'll guide you through them.
 Within this project I learned how to apply these libraries for big data analysis.
 Feel free to head to the folder and check out the .ipynb file, since there's a rendered output by Jupyter Notebook.
 Here's a sneak peak:
-**Records where the average age of houses in the area is over 50 years and the population is over 2500 people**
+<br>**Records where the average age of houses in the area is over 50 years and the population is over 2500 people**
 ![image](https://github.com/user-attachments/assets/47c386f1-08f1-46ba-81af-c02d5076222c)
 
 ## 📆 Statistics
