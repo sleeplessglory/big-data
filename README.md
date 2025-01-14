@@ -11,7 +11,7 @@ Here's a sneak peak:
 
 ## 📆 Statistics
 Regarding this project some basic statistics and even more have been implemented.
-Head to the corresponding folder to check out the JN file for all results. I'll include some of them here:
+Head to the corresponding folder to check out the JN file for all results. I'll include some of them here:<br>
 **Histograms for numerical data**
 ![image](https://github.com/user-attachments/assets/443430d6-e98a-4630-b54f-d8f9a23a10ef)
 
@@ -23,7 +23,7 @@ Head to the corresponding folder to check out the JN file for all results. I'll 
 
 ## 🎯 t-SNE multidimensional visualisation
 The project is related to nonlinear dimensional reduction methods to visualise multidimensional data. The t-SNE algorithm is used for this purpose.
-Let's check out some of the results. All rendered outputs are available within the corresponding folder within the repository.
+Let's check out some of the results. All rendered outputs are available within the corresponding folder within the repository.<br>
 **Perplexity 5 visualisation**
 ![image](https://github.com/user-attachments/assets/d0858019-22f5-42f4-8c84-8e26e189a496)
 
@@ -32,7 +32,7 @@ Let's check out some of the results. All rendered outputs are available within t
 
 ## 🏰 Clustering
 Regarding this project the clustering algorithms have been applied.
-Let's check some of the results:
+Let's check some of the results:<br>
 **Clustered data visualisation**
 ![image](https://github.com/user-attachments/assets/1eace2f0-5472-47bb-9564-5e01ff606af1)
 
@@ -47,7 +47,7 @@ Let's check some of the results:
 
 ## 🎤 Association rules learning
 This project is related to the ARL method.
-Check out some of the results:
+Check out some of the results:<br>
 **Relative frequency visualisation**
 ![image](https://github.com/user-attachments/assets/7a841d5c-8f21-4542-b3fe-2d88faa65b7d)
 
